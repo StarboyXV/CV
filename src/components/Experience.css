@@ -1,0 +1,80 @@
+.experience {
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+}
+
+.experience .container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.experience h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.experience-item {
+  background: white;
+  padding: 25px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border-left: 4px solid #667eea;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.experience-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  margin-bottom: 8px;
+}
+
+.experience-item h3 {
+  font-size: 1.3rem;
+  margin: 0;
+  color: #333;
+}
+
+.period {
+  background-color: #e8e8ff;
+  color: #667eea;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.experience-item .company {
+  font-size: 1.1rem;
+  color: #666;
+  margin: 5px 0 10px 0;
+  font-weight: 500;
+}
+
+.experience-item .description {
+  color: #555;
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+.description-bullets {
+  color: #555;
+  margin-bottom: 15px;
+  padding-left: 20px;
+}
+
+.description-bullets li {
+  margin-bottom: 8px;
+  line-height: 1.6;
+  position: relative;
+  padding-left: 10px;
+}
+
+.description-bullets li:before {
+  content: '•';
+  position: absolute;
+  left: -10px;
+  color: #667eea;
+  font-weight: bold;
+}
