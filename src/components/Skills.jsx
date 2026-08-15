@@ -16,7 +16,7 @@ export function Skills() {
     },
     {
         category: 'Database Management',
-        skills: ['SQL Server', 'Entity Framework']
+        skills: ['SQL Server', 'Entity Framework', 'MySQL']
     },
     {
         category: 'Tools & Practices',

@@ -27,6 +27,19 @@ export function Experience() {
         'Collaborated with internal teams to support system integrations, ensuring smooth data flow across platforms.',
         'Contributed to Agile development cycles, helping deliver features on time and improving team velocity.'
       ]
+    },
+    {
+      id: 3,
+      company: 'Kerridge Commercial Systems',
+      position: 'Graduate Software Engineer',
+      period: '2021 - 2022',
+      description: [
+        'Assisted in the development and maintenance of ERP system features using KCML (VB).',
+        'Participated in code reviews and contributed to improving code quality and maintainability.',
+        'Supported the testing and debugging of new features, ensuring they met the required specifications.',
+        'Collaborated with senior developers to learn best practices and improve technical skills.',
+        'Participated in Agile development meetings to discuss progress and plan upcoming tasks.'
+      ]
     }
   ]
 
